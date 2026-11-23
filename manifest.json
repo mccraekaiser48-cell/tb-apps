@@ -25,6 +25,22 @@
       "size": "4 KB"
     },
     {
+      "name": "GeForce NOW (In OS)",
+      "icon": "https://mccraekaiser48-cell.github.io/tb-apps/icon.svg",
+      "description": "Opens play.geforcenow.com inside the OS itself, loaded through the proxy.",
+      "developer": "You",
+      "version": "1.0.0",
+      "wmArgs": {
+        "title": { "text": "GeForce NOW", "weight": 600 },
+        "icon": "https://mccraekaiser48-cell.github.io/tb-apps/icon.svg",
+        "src": "https://play.geforcenow.com/",
+        "size": { "width": 1100, "height": 720 },
+        "single": true,
+        "resizable": true,
+        "proxy": true
+      }
+    },
+    {
       "name": "My Portal",
       "icon": "https://mccraekaiser48-cell.github.io/tb-apps/icon.svg",
       "description": "A start page for your own links, opened inside the app.",
