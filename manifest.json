@@ -15,6 +15,16 @@
       "size": "6 KB"
     },
     {
+      "name": "GeForce NOW",
+      "icon": "https://mccraekaiser48-cell.github.io/tb-apps/icon.svg",
+      "description": "Opens GeForce NOW in a full-size window over the desktop, where the stream can reach NVIDIA.",
+      "developer": "You",
+      "version": "1.0.0",
+      "pkg-name": "gfn",
+      "pkg-download": "https://mccraekaiser48-cell.github.io/tb-apps/GeForceNOW.TAPP.zip",
+      "size": "4 KB"
+    },
+    {
       "name": "My Portal",
       "icon": "https://mccraekaiser48-cell.github.io/tb-apps/icon.svg",
       "description": "A start page for your own links, opened inside the app.",
