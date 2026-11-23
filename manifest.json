@@ -1,74 +1,7 @@
 {
   "repo": {
     "name": "My Apps",
-    "icon": "https://mccraekaiser48-cell.github.io/tb-apps/icon.svg"
+    "icon": ""
   },
-  "apps": [
-    {
-      "name": "Real Browser",
-      "icon": "https://mccraekaiser48-cell.github.io/tb-apps/icon.svg",
-      "description": "Opens a page as a normal browser tab, where Google and Microsoft sign-in work.",
-      "developer": "You",
-      "version": "1.0.0",
-      "pkg-name": "realbrowser",
-      "pkg-download": "https://mccraekaiser48-cell.github.io/tb-apps/RealBrowser.TAPP.zip",
-      "size": "6 KB"
-    },
-    {
-      "name": "GeForce NOW",
-      "icon": "https://mccraekaiser48-cell.github.io/tb-apps/icon.svg",
-      "description": "Opens GeForce NOW in a full-size window over the desktop, where the stream can reach NVIDIA.",
-      "developer": "You",
-      "version": "1.0.0",
-      "pkg-name": "gfn",
-      "pkg-download": "https://mccraekaiser48-cell.github.io/tb-apps/GeForceNOW.TAPP.zip",
-      "size": "4 KB"
-    },
-    {
-      "name": "GeForce NOW (In OS)",
-      "icon": "https://mccraekaiser48-cell.github.io/tb-apps/icon.svg",
-      "description": "Opens play.geforcenow.com inside the OS itself, loaded through the proxy.",
-      "developer": "You",
-      "version": "1.0.0",
-      "wmArgs": {
-        "title": { "text": "GeForce NOW", "weight": 600 },
-        "icon": "https://mccraekaiser48-cell.github.io/tb-apps/icon.svg",
-        "src": "https://play.geforcenow.com/",
-        "size": { "width": 1100, "height": 720 },
-        "single": true,
-        "resizable": true,
-        "proxy": true
-      }
-    },
-    {
-      "name": "My Portal",
-      "icon": "https://mccraekaiser48-cell.github.io/tb-apps/icon.svg",
-      "description": "A start page for your own links, opened inside the app.",
-      "developer": "You",
-      "version": "1.0.0",
-      "pkg-name": "portal",
-      "pkg-download": "https://mccraekaiser48-cell.github.io/tb-apps/portal.TAPP.zip",
-      "size": "7 KB"
-    },
-    {
-      "name": "Snake",
-      "icon": "https://mccraekaiser48-cell.github.io/tb-apps/icon.svg",
-      "description": "A small game, to prove that game files you write yourself run here.",
-      "developer": "You",
-      "version": "1.0.0",
-      "pkg-name": "snake",
-      "pkg-download": "https://mccraekaiser48-cell.github.io/tb-apps/snake.TAPP.zip",
-      "size": "5 KB"
-    },
-    {
-      "name": "Sticky Notes",
-      "icon": "https://mccraekaiser48-cell.github.io/tb-apps/icon.svg",
-      "description": "A tiny notes app. Whatever you type is saved on its own.",
-      "developer": "You",
-      "version": "1.0.0",
-      "pkg-name": "notes",
-      "pkg-download": "https://mccraekaiser48-cell.github.io/tb-apps/notes.TAPP.zip",
-      "size": "3 KB"
-    }
-  ]
+  "apps": []
 }
